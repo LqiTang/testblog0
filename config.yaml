@@ -31,7 +31,7 @@ menu:
       url: "/index.xml"
 
 params:
-  description: "qiTang's first website!"
+  description: "集成电路设计与集成系统在读本科生"
   footer: "&copy; [Yihui Xie](https://yihui.org) 2017-{Year} | [Github](https://github.com/yihui)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
