@@ -1,6 +1,15 @@
 ---
 title: Home
 ---
+[<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/LqiTang)
+
+这里是我的个人网站，无论是本人还是其它访客，都欢迎你的到来。
+
+本网站内容通过rstudio进行制作，通过git进行远程版本控制，建立在netlify网站上。
+
+个人知识不足，网站的很多东西还不了解，请多包涵。为了学习模板和语言，未来很长一段时间都会保留原作者的相关信息。
+
+以下是原制作者关于本主题的介绍：
 
 [<img src="https://simpleicons.org/icons/github.svg" style="max-width:15%;min-width:40px;float:right;" alt="Github repo" />](https://github.com/yihui/hugo-ivy)
 

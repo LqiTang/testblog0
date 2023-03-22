@@ -32,7 +32,7 @@ menu:
 
 params:
   description: "集成电路设计与集成系统在读本科生"
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017-{Year} | [Github](https://github.com/yihui)"
+  footer: "&copy; [qiTang Lin](https://yihui.org) 2023-{Year} | [Github](https://github.com/LqiTang)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
